@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Jt8xdGK"><img src="https://i.ibb.co/021BX6c/ok.png" alt="ok" border="0"></a>
+<a href="https://ibb.co/3vkGVck"><img src="https://i.ibb.co/w7Y384Y/ok2.png" alt="ok2" border="0"></a>
 
 # First Java Project: My Space Invaders game
 
