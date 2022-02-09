@@ -30,9 +30,11 @@ Also note the animation of the shields, which disappear pixel by pixel, right wh
 
 <h3 align="center"> End of the game </h3>
 The game ends in 3 ways:
-• We lose if we lose our lives after receiving 3 shocks.
-• We lose if an alien touches the shield area, as it took us too long to try to kill them.
-• We win if we manage to kill them all.
+<ul>
+  <li> We lose if we lose our lives after receiving 3 shocks. </li>
+  <li> We lose if an alien touches the shield area, as it took us too long to try to kill them. </li>
+  <li> We win if we manage to kill them all. </li>
+</ul>
 Note that to increase the difficulty of each game progressively, the probability of aliens shooting increases inversely proportional to the number of living aliens.
 <br>
 If we lose the game we will see this image, with the 3 blank spaces to enter our name with the keyboard and, if we wish, save the game score:
@@ -42,7 +44,7 @@ If we lose the game we will see this image, with the 3 blank spaces to enter our
 </p>
 Same way if we win:
 <p align="center">
-  <img src="https://github.com/migodi15/Space-Invaders/blob/main/img/result/joc7.png" alt="ok2" width=300>
+  <img src="https://github.com/migodi15/Space-Invaders/blob/main/img/result/joc7.PNG" alt="ok2" width=300>
   <img src="https://github.com/migodi15/Space-Invaders/blob/main/img/result/joc8.png" alt="ok2" width=300>
 </p>
 
@@ -65,13 +67,3 @@ In the 3rd option of the main menu we can enter by doing Enter as well. Here we 
 <h2> Exit </h2>
 Pressing Enter on the last option in the main menu will close the game.
 <p align="center"><img src="https://github.com/migodi15/Space-Invaders/blob/main/img/result/menu4.png" alt="ok2" width=300></p>
-<br>
-<br>
-<h2 align="center">Hi 👋, I'm Mireia Gómez Diaz</h2>
-<h3 align="center">a fourth-year Mathematics student at the Universitat Autònoma de Barcelona.</h3>
-
-- 🌱 I’m currently working with **Java.**
-
-- 📫 How to reach me **gomezdiazmireia@gmail.com**
-
-- <a href="https://www.linkedin.com/in/mireia-gómez-diaz-4322221b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mireia Gómez Diaz" height="20" width="30" />Mireia Gómez Diaz</a> 
