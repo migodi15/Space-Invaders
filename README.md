@@ -1,4 +1,4 @@
-<a align="center" href="https://ibb.co/3vkGVck"><img src="https://i.ibb.co/w7Y384Y/ok2.png" alt="ok2" border="0" class="center"></a>
+<p align="center"><img src="https://github.com/migodi15/Space-Invaders/blob/main/img/result/logo.png" alt="ok2" width=300></p>
 
 # First Java Project: My Space Invaders game
 
